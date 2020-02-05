@@ -12,17 +12,17 @@ class Restaurant:
         print("The restaurant is open.")
 
 
-# restaurant = Restaurant('Bolis', 'Pizzas')
-# restaurant.describe_restaurant()
-# restaurant.open_restaurant()
-# print("")
-# restaurant1 = Restaurant('Outback Steakhouse', 'Aussie Onions')
-# restaurant1.describe_restaurant()
-# restaurant1.open_restaurant()
-# print("")
-# restaurant2 = Restaurant('Franks', 'Fish and Chips')
-# restaurant2.describe_restaurant()
-# restaurant2.open_restaurant()
+restaurant = Restaurant('Bolis', 'Pizzas')
+restaurant.describe_restaurant()
+restaurant.open_restaurant()
+print("")
+restaurant1 = Restaurant('Outback Steakhouse', 'Aussie Onions')
+restaurant1.describe_restaurant()
+restaurant1.open_restaurant()
+print("")
+restaurant2 = Restaurant('Franks', 'Fish and Chips')
+restaurant2.describe_restaurant()
+restaurant2.open_restaurant()
 
 class User:
 
