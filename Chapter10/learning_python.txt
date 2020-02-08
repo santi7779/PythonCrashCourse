@@ -1,0 +1,1 @@
+Python is an important programming language that any developer should know. Many programmers use this language to build websites, create learning algorithms, and perform other important tasks. But trying to learn Python can be intimidating, frustrating, and difficult, especially if you’re not sure how to approach it.
