@@ -5,10 +5,12 @@ with open('learning_python.txt') as file_object:
 
 r_python = ''
 for line in lines:
-    r_python = line
-    line.replace('Python', 'C++')
+    r_python = line.replace('Python', 'C++')
+
 
 print(r_python)
+
+
 
 
 
