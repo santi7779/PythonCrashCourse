@@ -4,7 +4,7 @@
 
 filename = 'pi_digits.txt'
 
-with open('pi_digits.txt') as file_object:
+with open('cats.txt') as file_object:
     lines = file_object.readlines()
 
 for line in lines:
